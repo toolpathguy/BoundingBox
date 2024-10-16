@@ -1,0 +1,15 @@
+{
+    "id": "BoundingBoxAddin",
+    "name": "Bounding Box Addin",
+    "version": "1.0.0",
+    "description": "Create a bounding box around a selected body with customizable offsets.",
+    "author": "Your Name",
+    "website": "https://mfg.dev",
+    "helpURL": "https://mfg.dev",
+    "os": ["Mac", "Windows"],
+    "platform": ["Fusion"],
+    "autodeskAppStore": false,
+    "runtime": {
+        "entry": "Scripts/BoundingBoxAddin.py"
+    }
+}
